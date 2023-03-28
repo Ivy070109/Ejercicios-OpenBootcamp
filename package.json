@@ -1,0 +1,16 @@
+{
+  "name": "ejercicio-open-bootcaamp",
+  "version": "1.0.0",
+  "description": "Ejercicio número 1 de Open Bootcamo",
+  "main": "index.js",
+  "scripts": {
+    "ejercicio": "Hola éste es mi primer ejercicio con Node en el mejor boorcamp de programación de mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ejercicio",
+    "openBootcamp"
+  ],
+  "author": "Ivana Aguilar",
+  "license": "ISC"
+}
